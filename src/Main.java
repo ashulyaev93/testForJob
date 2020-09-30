@@ -3,12 +3,12 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args){
-        //Задача 1
+        //Задача 1;
         System.out.println("Задача 1");
         System.out.println(checkStr("Hello World"));
         System.out.println();
 
-        //Задача 2
+        //Задача 2;
         System.out.println("Задача 2");
         runTask2();
     }
